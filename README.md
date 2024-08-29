@@ -1,4 +1,4 @@
-Multithreading Folder has Two programs
+Multithreading Folder has Two simple projects to demonstrate MultiThreading concept
 
 1.Program Name : Bank Atm
 
