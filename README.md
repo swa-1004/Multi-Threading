@@ -1,4 +1,4 @@
-Multithreading File has Two program
+Multithreading Folder has Two programs
 
 1.Program Name : Bank Atm
 
